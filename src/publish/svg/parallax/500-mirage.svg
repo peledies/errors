@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 190 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-722,-547)">
+        <g id="mirage">
+            <path d="M782,550C782,548.344 780.656,547 779,547L725,547C723.344,547 722,548.344 722,550C722,551.656 723.344,553 725,553L779,553C780.656,553 782,551.656 782,550Z" style="fill:white;fill-opacity:0.4;"/>
+            <path d="M902,568C902,566.344 900.656,565 899,565L845,565C843.344,565 842,566.344 842,568C842,569.656 843.344,571 845,571L899,571C900.656,571 902,569.656 902,568Z" style="fill:white;fill-opacity:0.4;"/>
+            <path d="M802,562C802,560.344 800.656,559 799,559L765,559C763.344,559 762,560.344 762,562C762,563.656 763.344,565 765,565L799,565C800.656,565 802,563.656 802,562Z" style="fill:white;fill-opacity:0.4;"/>
+            <path d="M912,556C912,554.344 910.656,553 909,553L875,553C873.344,553 872,554.344 872,556C872,557.656 873.344,559 875,559L909,559C910.656,559 912,557.656 912,556Z" style="fill:white;fill-opacity:0.4;"/>
+            <path d="M851,550C851,548.344 849.656,547 848,547L814,547C812.344,547 811,548.344 811,550C811,551.656 812.344,553 814,553L848,553C849.656,553 851,551.656 851,550Z" style="fill:white;fill-opacity:0.4;"/>
+        </g>
+    </g>
+</svg>

@@ -455,6 +455,10 @@
             }
         }
         </style>
+
+        @stack('styles')
+
+        @stack('scripts')
     </head>
     <body class="antialiased font-sans">
         <div class="md:flex min-h-screen">
